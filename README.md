@@ -5,7 +5,7 @@
 
 <p>Чтобы установить этот Helm-чарт, выполните следующую команду:</p>
 
-<pre><code>helm install &lt;имя-релиза&gt; ./short-service</code></pre>
+<pre><code>git clone https://github.com/reader2k24/K8S-HELM-LINK-SHORTENER.git</code></pre>
 
 <h2>Настройка</h2>
 
